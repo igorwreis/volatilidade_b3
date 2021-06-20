@@ -13,7 +13,7 @@ salva_vol = r'caminho\\para\\salvar\\arquivo\\com\volatilidades\\' # local para 
 
 Caso deseje salvar todos os arquivos utilizados para os cálculos, é preciso ainda criar as subpastas abaixo
 
-arquivoz_zip + 'antigos\\'
-arquivos_txt + 'utilizados\\'
+- arquivoz_zip + 'antigos\\'
+- arquivos_txt + 'utilizados\\'
 
 Deixar ambos os programas na mesma pasta; Rodar rotina apenas a partir do arquivo 'extrair'
